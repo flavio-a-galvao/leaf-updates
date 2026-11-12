@@ -1,47 +1,47 @@
 {
-    "versao":  2,
-    "arquivos":  [
-                     {
-                         "nome":  "ALMAZ_DATA.zip",
-                         "sha256":  "758a1c98893834792af2f90635e7c4404c87831bcff9553ad62b19790de1c758",
-                         "tamanho":  18820990,
-                         "url":  "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v2/ALMAZ_DATA.zip"
-                     },
-                     {
-                         "nome":  "ALMAZ_V10.dat.enc",
-                         "sha256":  "c14faca216a6253252ace54f379f79f5f80ea16024c02a94307e6ccbc13c1886",
-                         "tamanho":  21193987,
-                         "url":  "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v2/ALMAZ_V10.dat.enc"
-                     },
-                     {
-                         "nome":  "ALMAZ_V10.dat.enc.sha256",
-                         "sha256":  "3cb175b34956358d8aecdf0443605d9ac3d9b6dc4394b43b1cbafdfc81ce0273",
-                         "tamanho":  64,
-                         "url":  "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v2/ALMAZ_V10.dat.enc.sha256"
-                     },
-                     {
-                         "nome":  "dwmapi.dll.bin",
-                         "sha256":  "2c202e0ad5edbfad740bdff61b2862d8e8b49dcbb98521b17b753951776458de",
-                         "tamanho":  109568,
-                         "url":  "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v2/dwmapi.dll.bin"
-                     },
-                     {
-                         "nome":  "OpenSteamTool.dll.bin",
-                         "sha256":  "2187adbab95dfb84e899899158e69ad4cab51700828dccfc332618c08b33d99d",
-                         "tamanho":  1615360,
-                         "url":  "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v2/OpenSteamTool.dll.bin"
-                     },
-                     {
-                         "nome":  "xinput1_4.dll.bin",
-                         "sha256":  "f70f468cd2902fe4edb0ddb0cd41d5c84eee5bc57ed753bd48f5ef0f279680f4",
-                         "tamanho":  122880,
-                         "url":  "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v2/xinput1_4.dll.bin"
-                     },
-                     {
-                         "nome":  "games.db",
-                         "sha256":  "e89fe5f87a649db3982e44d93f952f815e5eefdcb3238929f789767a212ff7e0",
-                         "tamanho":  19017728,
-                         "url":  "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v2/games.db"
-                     }
-                 ]
+  "versao": 3,
+  "arquivos": [
+    {
+      "nome": "ALMAZ_DATA.zip",
+      "sha256": "758a1c98893834792af2f90635e7c4404c87831bcff9553ad62b19790de1c758",
+      "tamanho": 18820990,
+      "url": "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v3/ALMAZ_DATA.zip"
+    },
+    {
+      "nome": "ALMAZ_V10.dat.enc",
+      "sha256": "0f087e4719d83d616098e7f81c688abfbc6966207938c68d62424d537358fbfb",
+      "tamanho": 21197271,
+      "url": "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v3/ALMAZ_V10.dat.enc"
+    },
+    {
+      "nome": "ALMAZ_V10.dat.enc.sha256",
+      "sha256": "a6613b37dfe562bb88a1dbb0029beca95227f07c3f32bd7d96c4ce125c004fb4",
+      "tamanho": 64,
+      "url": "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v3/ALMAZ_V10.dat.enc.sha256"
+    },
+    {
+      "nome": "dwmapi.dll.bin",
+      "sha256": "2c202e0ad5edbfad740bdff61b2862d8e8b49dcbb98521b17b753951776458de",
+      "tamanho": 109568,
+      "url": "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v3/dwmapi.dll.bin"
+    },
+    {
+      "nome": "games.db",
+      "sha256": "e89fe5f87a649db3982e44d93f952f815e5eefdcb3238929f789767a212ff7e0",
+      "tamanho": 19017728,
+      "url": "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v3/games.db"
+    },
+    {
+      "nome": "OpenSteamTool.dll.bin",
+      "sha256": "2187adbab95dfb84e899899158e69ad4cab51700828dccfc332618c08b33d99d",
+      "tamanho": 1615360,
+      "url": "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v3/OpenSteamTool.dll.bin"
+    },
+    {
+      "nome": "xinput1_4.dll.bin",
+      "sha256": "f70f468cd2902fe4edb0ddb0cd41d5c84eee5bc57ed753bd48f5ef0f279680f4",
+      "tamanho": 122880,
+      "url": "https://github.com/flavio-a-galvao/leaf-updates/releases/download/v3/xinput1_4.dll.bin"
+    }
+  ]
 }
